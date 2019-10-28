@@ -1,3 +1,3 @@
 # Algorithm_Problem_Set
 
-## Java & JavaScript Algorithm Problem Set in practice
+## Java & JavaScript Algorithm Problem Set in Java and JavaScript
