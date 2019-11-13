@@ -16,7 +16,6 @@ class Solution {
         }
         return -1;
     }
-
 }
 // @lc code=end
 // 74/74
