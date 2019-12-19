@@ -13,6 +13,7 @@ var maxProfit = function(prices) {
   let diff = 0;
   if (prices.length > 0) {
     prices.reduce((acc, next) => {
+      console.log(acc, next);
       if (next > acc) {
         diff += next - acc;
       }
