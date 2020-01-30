@@ -16,7 +16,7 @@ class Solution {
             if (!Character.isLetterOrDigit(sHead)) {
                 head++;
             } else if (!Character.isLetterOrDigit(sTail)) {
-                tail;
+                tail--;
             } else {
                 if (Character.toLowerCase(sHead) != Character.toLowerCase(sTail)) {
                     return false;
